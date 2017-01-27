@@ -9,4 +9,9 @@ as a black woman in the tech industry in the Twin Cities.
 
 ### Nerd Culture
 
-- ["Sorry, nerds--you aren't as oppressed as you think"](http://www.dailydot.com/via/nerds-geeks-privilege-feminism/?tw=share)
+- ["Sorry, nerds--you aren't as oppressed as you think"](http://www.dailydot.com/via/nerds-geeks-privilege-feminism/?tw=share) |
+*Perspective*: White male, ally
+
+### Wikis
+
+- [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
