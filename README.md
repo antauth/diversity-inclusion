@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Diversity and Inclusion Resources
 
-You can use the [editor on GitHub](https://github.com/antauth/diversity-inclusion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Often times people ask about how they can better learn or understand the
+perspectives of those whose identities are more marginalized or differently
+marginalized than their own.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, this resource is a collection of articles and videos that speak to my experience
+as a black woman in the tech industry in the Twin Cities.
 
-### Markdown
+### Nerd Culture
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antauth/diversity-inclusion/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- ["Sorry, nerds--you aren't as oppressed as you think"](http://www.dailydot.com/via/nerds-geeks-privilege-feminism/?tw=share)
