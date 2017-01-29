@@ -18,4 +18,5 @@ as a black woman in the tech industry in the Twin Cities.
 
 ### Inspiration
 
-- ["Why I Ran: Florida Congresswoman Val Demings"](http://www.elle.com/culture/career-politics/news/a42259/val-demings-florida-congresswoman-interview/?src=socialflowTW) | *Perspective*: Black woman, politician, leader
+- ["Why I Ran: Florida Congresswoman Val Demings"](http://www.elle.com/culture/career-politics/news/a42259/val-demings-florida-congresswoman-interview/?src=socialflowTW) | 
+*Perspective*: Black woman, politician, leader
