@@ -15,3 +15,7 @@ as a black woman in the tech industry in the Twin Cities.
 ### Wikis
 
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
+
+### Inspiration
+
+- ["Why I Ran: Florida Congresswoman Val Demings"](http://www.elle.com/culture/career-politics/news/a42259/val-demings-florida-congresswoman-interview/?src=socialflowTW) | *Persspective*: Black woman, politician, leader
