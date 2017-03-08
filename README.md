@@ -12,6 +12,10 @@ as a black woman in the tech industry in the Twin Cities.
 - ["Sorry, nerds--you aren't as oppressed as you think"](http://www.dailydot.com/via/nerds-geeks-privilege-feminism/?tw=share) |
 *Perspective*: White male, ally
 
+### Allyship
+
+- ["How white women in tech can harness their privilege to help create diversity"](http://www.recode.net/2017/3/6/14833504/white-women-tech-work-silicon-valley-privilege-diversity) | *Perspective*: Mixed race/white-perceived woman, diversity and inclusion executive
+
 ### Wikis
 
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
