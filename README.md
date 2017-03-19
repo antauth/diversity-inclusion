@@ -16,6 +16,7 @@ as a black woman in the tech industry in the Twin Cities.
 
 - ["How white women in tech can harness their privilege to help create diversity"](http://www.recode.net/2017/3/6/14833504/white-women-tech-work-silicon-valley-privilege-diversity) | 
 *Perspective*: Mixed race/white-perceived woman, diversity and inclusion executive
+- ["Too Many Men Are Silent Bystanders to Sexual Harassment"](https://hbr.org/2017/03/too-many-men-are-silent-bystanders-to-sexual-harassment) | *Perspective*: Male, Phd-holder, military
 
 ### Wikis
 
