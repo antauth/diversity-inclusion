@@ -19,6 +19,14 @@ as a black woman in the tech industry in the Twin Cities.
 - ["Too Many Men Are Silent Bystanders to Sexual Harassment"](https://hbr.org/2017/03/too-many-men-are-silent-bystanders-to-sexual-harassment) | 
 *Perspective*: Male, Phd-holder, military
 
+### Media Bias
+
+I believe that the way the media frames stories has a large impact on how the general public talks about stories.
+Unfortunately, because news rooms lack racial diversity, much of this framing is biased. And this bias enforces racist narratives.
+
+- ["These words suggest bias when news describes shooters"](http://www.futurity.org/shooters-media-bias-1413362) |
+*Perspective*: Academic research via University of Missouri
+
 ### Wikis
 
 - [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
